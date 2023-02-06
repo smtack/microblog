@@ -1,0 +1,1 @@
+Profile pictures are uploaded to this folder
